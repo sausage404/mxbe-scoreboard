@@ -1,6 +1,6 @@
 {
   "name": "@mxbe/scoreboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is scoreboard management for minecraft bedrock development",
   "author": "sausage404",
   "main": "dist/index.js",
